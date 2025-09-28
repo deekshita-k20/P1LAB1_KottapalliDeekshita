@@ -4,7 +4,7 @@
 # This program asks the user for their first and last name
 # and displays a personalized welcome message. 
 
-# Ask user for first and last name 
+# Ask user for First and Last name 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 
